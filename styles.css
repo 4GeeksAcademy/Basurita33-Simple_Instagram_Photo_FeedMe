@@ -1,0 +1,41 @@
+header {
+    margin: 0px;
+    text-align: center;
+}
+body {
+    font-family: Helvetica, sans-serif;
+    font-size: 13px;
+}
+.body {
+    background-color: rgb(233, 233, 233);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 0px;
+}
+.box {
+    background-color: white;
+    margin: 25px auto 25px auto;
+    width: 500px;
+    height: 500px;
+    border-radius: 2px;
+}
+.box .headbox .date {
+    float: right;
+    padding-top: 5px;
+    color: grey;
+}
+h3 {
+    display: inline-block;
+    margin-left: 10px;;
+    padding-top: 5px;
+}
+div.headbox p{
+    position: relative;
+    right: 10px;
+}
+img {
+    width: 100%;
+}
+.text {
+    margin-left: 10px;
+}
